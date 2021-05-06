@@ -1,4 +1,4 @@
-### TIC-TAC-TOE GAME  :fa-terminal: :fa-steam-square: :fa-github-alt: :fa-github-alt:
+### TIC-TAC-TOE GAME  ☕ 🎮 
 
 [![](https://cdn5.dibujos.net/dibujos/pintar/tres-en-raya.gif)](https://cdn5.dibujos.net/dibujos/pintar/tres-en-raya.gif)
 
@@ -9,8 +9,8 @@ This is a project I made learning React from the official documentation [Here](h
 -The winner will be the player who gets three consecutives 'X's or 'O's in a row or in a column or in diagonal, this will end the game with a winner.
 
 **Technologies used in this project includes:**
-- Html :fa-html5:
-- Css :fa-css3:
+- Html 
+- Css 
 - JavaScript
 - React
 
